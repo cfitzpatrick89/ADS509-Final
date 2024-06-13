@@ -11,7 +11,9 @@ Name: NCBI E-utilities Dataset
 Description:
 
 • Data Source: Medical publications
+
 • Number of Variables: Variable, depending on the publication
+
 • Size of Dataset: Comprehensive collection of medical research papers, with thousands of entries
 
 ## Objectives
