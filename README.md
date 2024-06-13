@@ -1,4 +1,4 @@
-## Exploring the Impact of Climate Change and Public Health Using Text Analysis
+# Exploring the Impact of Climate Change and Public Health Using Text Analysis
 
 # Project Overview
 
@@ -16,7 +16,7 @@ Description:
 
 • Size of Dataset: Comprehensive collection of medical research papers, with thousands of entries
 
-## Objectives
+# Objectives
 
 1. Extract key words and phrases to determine the impact of climate change on public health.
 2. Analysis scientific research papers using text mining techniques.
@@ -24,11 +24,11 @@ Description:
 4. Identify important themes, significant terms, and emerging trends in the literature.
 5. Provide insights into the impact of climate change on public health.
 
-## Repository
+# Repository
 
 The project code and documentation are hosted on GitHub. For version control and collaboration, visit our respository: ADS509-Final
 
-## Conclusion
+# Conclusion
 
 By understanding the influence of climate change on public health through comprehensive text anaysis, this project aims to contribute valuable insights to the scientific community and inform public health strategies.
 
