@@ -28,6 +28,12 @@ Description:
 
 The project code and documentation are hosted on GitHub. For version control and collaboration, visit our respository: ADS509-Final
 
+Our repository includes two notebooks:
+
+• Descriptive_Statistics_ADS509_Final - submitted for Assignment 6.2. The data set was prepared for analysis, as well as calculating basic descriptive statistics.
+
+• ADS509_Final_Classification - contains the final projects code, to include the building of topic models and a classification model.
+
 # Conclusion
 
 By understanding the influence of climate change on public health through comprehensive text anaysis, this project aims to contribute valuable insights to the scientific community and inform public health strategies.
